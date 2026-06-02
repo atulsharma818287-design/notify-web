@@ -1,2 +1,2 @@
 # notify-web
-Developed a notification platform providing updates related to stock market trends, social media news, and vlogging content. Implemented dynamic UI components and organized category-based information flow.Focused on responsive design and user-friendly experience.
+Notifly is an AI-powered assistant that provides personalized real-time updates on news, markets, videos, and trends in one platform. It automatically gathers, filters, and explains information based on user preferences, reducing the need to check multiple apps daily.
